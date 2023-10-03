@@ -1,0 +1,29 @@
+header {
+	background-color: blue;
+	color: darkred;
+	text-align: center;
+	padding: 20px;
+}
+h1 {
+	font-size: 36px;
+}
+section {
+
+padding: 20px;
+}
+h2 {
+	font-size: 24px;
+	color: red;
+
+}
+p {
+	font-size: 18px;
+	line-height: 1.5;
+	color: darkred;
+}
+footer {
+	background-color: skyblue;
+	color: darkred;
+	text-align: center;
+	padding: 10px;
+}
